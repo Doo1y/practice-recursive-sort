@@ -1,0 +1,15 @@
+{
+  "name": "practice-recursive-sort",
+  "version": "1.0.0",
+  "description": "AppAcademy recursion sort practice exercise",
+  "main": "recursive-sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "practice-recursive-sort"
+  },
+  "author": "",
+  "license": "ISC"
+}
